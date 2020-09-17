@@ -5,7 +5,7 @@
     -webkit-text-stroke: 0.3px blue;
 ">
 <h1 align="center">Hi 👋, I'm Shriansh Agarwal</h1>
-<h2 align="center">A passionate developer from India</h2>
+<h2 align="center">A passionate developer from India  🇮🇳</h2>
 <br>
 
 - E-Commerce Website with Flask available at [E-Commerce Website with Python & Flask](http://bit.ly/e-commerce-website-flask)
