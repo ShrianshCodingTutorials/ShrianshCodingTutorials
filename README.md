@@ -1,3 +1,17 @@
+<style>
+.portfolio{
+    background-image: url('https://images.unsplash.com/photo-1588876315093-ce09afb34028?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
+    background-repeat: no-repeat;
+
+    color: white;
+    font-weight: 700;
+    -webkit-text-stroke: 0.3px blue;
+
+}
+
+</style>
+
+<div class="portfolio">
 <h1 align="center">Hi 👋, I'm Shriansh Agarwal</h1>
 <h2 align="center">A passionate developer from India</h2>
 <br>
@@ -9,8 +23,8 @@
 - 👨‍💻 All of my projects are available at [SHRIANSH CODING TUTORIALS ](youtube.com/c/ShrianshCodingTutorials)
 
 
-## <br><p style="color: gold"> **My Skills** <br>
-<p> 
+## <br><center style="color: gold;"> **My Skills**
+<center>
     <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -23,11 +37,24 @@
     <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+</center>
+
+<hr>
+<br>
+<p class="social" align="center">
+<a href="https://twitter.com/shrianshagarwal" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter.png"/>
+</a>&nbsp;
+<a href="https://fb.com/shriansh.agarwal" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+</a>&nbsp;
+<a href="https://instagram.com/_.shriansh_agarwal" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png"/>
+</a>&nbsp;
+<a href="https://www.youtube.com/c/shriansh coding tutorials" target="blank">
+    <img src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
+</a>&nbsp;
 </p>
 
-<p align="center">
-<a href="https://twitter.com/shrianshagarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shrianshagarwal" height="30" width="30" /></a>&nbsp;
-<a href="https://fb.com/shriansh.agarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shriansh.agarwal" height="30" width="30" /></a>&nbsp;
-<a href="https://instagram.com/_.shriansh_agarwal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.shriansh_agarwal" height="30" width="30" /></a>&nbsp;
-<a href="https://www.youtube.com/c/shriansh coding tutorials" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="shriansh coding tutorials" height="30" width="30" /></a>&nbsp;
-</p>
+
+</div>
