@@ -1,7 +1,5 @@
 
 <div class="portfolio" style="
-    background-image: url('https://images.unsplash.com/photo-1588876315093-ce09afb34028?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
-    background-repeat: no-repeat;
     color: white;
     font-weight: 700;
     -webkit-text-stroke: 0.3px blue;
