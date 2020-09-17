@@ -1,16 +1,11 @@
-<style>
-.portfolio{
+
+<div class="portfolio" style="
     background-image: url('https://images.unsplash.com/photo-1588876315093-ce09afb34028?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80');
     background-repeat: no-repeat;
     color: white;
     font-weight: 700;
     -webkit-text-stroke: 0.3px blue;
-
-}
-
-</style>
-
-<div class="portfolio">
+">
 <h1 align="center">Hi 👋, I'm Shriansh Agarwal</h1>
 <h2 align="center">A passionate developer from India</h2>
 <br>
