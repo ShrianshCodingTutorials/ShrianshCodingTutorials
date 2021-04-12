@@ -3,6 +3,10 @@
     font-weight: 700;
     -webkit-text-stroke: 0.3px blue;
 ">
+center img{
+    width: 40;
+    height: 40;
+}
 <h1 align="center">Hi 👋, I'm Shriansh Agarwal</h1>
 <h2 align="center">A passionate developer from India  🇮🇳</h2>
 <br>
@@ -16,8 +20,8 @@
 
 ## <br><center style="color: gold;"> **My Skills**
 <center>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap"/> 
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
     <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
