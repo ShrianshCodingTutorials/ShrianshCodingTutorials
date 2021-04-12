@@ -15,7 +15,7 @@
 
 
 ## <br><center style="color: gold;"> **My Skills**
-<center>
+<center align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"  width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"  width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
