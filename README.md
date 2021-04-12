@@ -4,8 +4,8 @@
     -webkit-text-stroke: 0.3px blue;
 ">
 center img{
-    width: 40;
-    height: 40;
+    width: 40px;
+    height: 40px;
 }
 <h1 align="center">Hi 👋, I'm Shriansh Agarwal</h1>
 <h2 align="center">A passionate developer from India  🇮🇳</h2>
